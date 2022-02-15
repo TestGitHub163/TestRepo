@@ -38,6 +38,8 @@ class ViewController: UIViewController {
         /*
          code4 ...
          */
+        
+        //AppStore2
     }
 
 
