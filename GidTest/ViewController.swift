@@ -30,7 +30,12 @@ class ViewController: UIViewController {
         
         //Code 3
         /*
-         code3 ... 
+         code3 ...
+         */
+        
+        //Code 4
+        /*
+         code4 ...
          */
     }
 
